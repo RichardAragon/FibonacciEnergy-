@@ -1,5 +1,7 @@
 # Fibonacci Energy
 
+Colab Notebook With All Experiments: https://colab.research.google.com/drive/16xxHJe0XJOfW1tfgX0WhA8nIIHwFfDHg?usp=sharing 
+
 ## Introduction
 Fibonacci Energy is an open-source exploration into the intersection of **resonant energy transfer, feedback loops, and structured oscillations** inspired by the Fibonacci sequence. Through **simulated experiments**, we have modeled a system that appears to **cycle and reinforce energy** in a structured way, similar to a thermodynamic engine, but operating on **differential energy gradients** rather than temperature differences.
 
